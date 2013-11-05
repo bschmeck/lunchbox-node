@@ -12,5 +12,5 @@
     "type": "git",
 	"url": "https://github.com/bschmeck/lunchbox-node.git"
   },
-  "main": "./lib/cleverbot.js"
+  "main": "./lib/lunchbox.js"
 }
