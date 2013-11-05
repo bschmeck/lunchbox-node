@@ -1,0 +1,16 @@
+{
+  "name": "lunchbox-node",
+  "keywords": ["lunchbox"],
+  "description": "Lunchbox.fm client",
+  "version": "0.0.1",
+  "author": "Ben Schmeckpeper <ben.schmeckpeper@gmail.com>",
+  "url": "https://github.com/bschmeck/lunchbox-node",
+  "directories": {
+    "lib": "./lib"
+  },
+  "repository": {
+    "type": "git",
+	"url": "https://github.com/bschmeck/lunchbox-node.git"
+  },
+  "main": "./lib/cleverbot.js"
+}
