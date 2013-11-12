@@ -2,7 +2,7 @@
   "name": "lunchbox-node",
   "keywords": ["lunchbox"],
   "description": "Lunchbox.fm client",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "author": "Ben Schmeckpeper <ben.schmeckpeper@gmail.com>",
   "url": "https://github.com/bschmeck/lunchbox-node",
   "directories": {
